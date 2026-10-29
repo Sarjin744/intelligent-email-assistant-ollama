@@ -1,0 +1,58 @@
+[
+  {
+    "id": "PI-101",
+    "category": "Damaged / Defective Product",
+    "customer_email": "My package arrived damaged. The outer carton was torn and the inner product packaging was crushed.",
+    "agent_reply": "Dear Customer,\n\nWe are sorry for the inconvenience caused. We understand how frustrating it is to receive a damaged parcel. We will arrange a replacement immediately. Our logistics team will also initiate a pickup for the damaged item.\n\nBest regards,\nCustomer Support Team",
+    "keywords": ["damaged", "torn", "crushed", "package", "broken", "parcel"]
+  },
+  {
+    "id": "PI-102",
+    "category": "Delivery / Shipping Delay",
+    "customer_email": "My order has not been delivered yet. It has been over 5 days since the expected delivery date.",
+    "agent_reply": "Dear Customer,\n\nWe apologize for the delay. Our team is actively checking your shipment with our courier partner. You will receive a tracking update shortly with an expedited delivery timeline.\n\nWarm regards,\nShipping & Logistics Team",
+    "keywords": ["delivered", "delay", "shipping", "courier", "tracking", "late", "order"]
+  },
+  {
+    "id": "PI-103",
+    "category": "Hardware / Broken Screen",
+    "customer_email": "My laptop screen is broken and showing vertical lines after opening the box.",
+    "agent_reply": "Dear Customer,\n\nWe apologize for the inconvenience. Please share your order ID along with photos of the damaged screen. We will arrange an expedited replacement after verification within 24 hours.\n\nWarm regards,\nHardware Support Team",
+    "keywords": ["laptop", "screen", "broken", "display", "lines", "hardware"]
+  },
+  {
+    "id": "PI-104",
+    "category": "Refund & Cancellation",
+    "customer_email": "I cancelled my order three days ago, but the refund amount has not credited to my bank account.",
+    "agent_reply": "Dear Customer,\n\nThank you for reaching out. We have processed the refund from our end. Depending on your financial institution, refunds generally reflect within 3 to 5 business days. Please find your bank transaction reference ID attached.\n\nSincerely,\nBilling & Finance Team",
+    "keywords": ["refund", "cancelled", "bank", "account", "credit", "money", "transaction"]
+  },
+  {
+    "id": "PI-105",
+    "category": "Billing / Double Charge",
+    "customer_email": "I was charged twice for the same transaction during checkout. Kindly reverse the duplicate charge.",
+    "agent_reply": "Dear Customer,\n\nWe apologize for the technical glitch during checkout. Our accounts department has verified the duplicate charge and immediately initiated a full refund for the second debit. It should reflect within 24-48 hours.\n\nBest regards,\nAccounts Desk",
+    "keywords": ["charged", "twice", "duplicate", "checkout", "reverse", "transaction"]
+  },
+  {
+    "id": "PI-106",
+    "category": "Wrong Item Delivered",
+    "customer_email": "I ordered wireless noise-cancelling headphones, but received wired earphones instead.",
+    "agent_reply": "Dear Customer,\n\nWe sincerely apologize for sending you the wrong product. We have arranged for a priority pickup of the incorrect item and dispatched the correct wireless headphones to your registered shipping address today.\n\nBest regards,\nOrder Fulfillment Team",
+    "keywords": ["wrong", "item", "product", "received", "instead", "incorrect", "fulfillment"]
+  },
+  {
+    "id": "PI-107",
+    "category": "Account & Password Security",
+    "customer_email": "I am locked out of my account and not receiving the password reset verification email.",
+    "agent_reply": "Dear Customer,\n\nWe appreciate your patience. We have verified your registered email and refreshed your authentication profile. Please check your inbox or spam folder for a secure password reset link valid for the next 30 minutes.\n\nRegards,\nSecurity & Identity Team",
+    "keywords": ["locked", "password", "reset", "login", "account", "verification", "access"]
+  },
+  {
+    "id": "PI-108",
+    "category": "Warranty & Technical Support",
+    "customer_email": "My smart watch stopped turning on after two months. Is this covered under manufacturer warranty?",
+    "agent_reply": "Dear Customer,\n\nYes, your device is covered under our 1-year comprehensive manufacturer warranty. Kindly share your serial number and invoice. Our technician will guide you through diagnostic steps or arrange free service repair.\n\nWarm regards,\nTechnical Support Team",
+    "keywords": ["warranty", "watch", "stopped", "turning on", "support", "repair", "service"]
+  }
+]
